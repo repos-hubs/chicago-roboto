@@ -54,10 +54,10 @@ class SessionDateView(context: Context, attrs: AttributeSet? = null, defStyle: I
         adapter.dates.clear()
         adapter.dates.addAll(sessionDates)
         adapter.notifyDataSetChanged()
-
-        if (sessionDates.size > 1) {
+        tabs.visibility = View.VISIBLE
+       /* if (sessionDates.size > 1) {
             tabs.visibility = View.VISIBLE
-        }
+        }*/
     }
 
     override fun scrollToCurrentDay() {

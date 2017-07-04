@@ -2,15 +2,15 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
-def event_id = "chicagoroboto-2017"
-def event_name = "Chicago Roboto"
-def app_name = "Roboto"
+def event_id = "devfest-jhb"
+def event_name = "DevFest Johannesburg"
+def app_name = "DevFest Johannesburg"
 
 android {
     compileSdkVersion 25
     buildToolsVersion '25.0.2'
     defaultConfig {
-        applicationId "com.chicagoroboto"
+        applicationId "joburg.devfest.android"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 9

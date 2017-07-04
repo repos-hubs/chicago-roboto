@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "757090852561",
-    "firebase_url": "https://chicago-roboto.firebaseio.com",
-    "project_id": "chicago-roboto",
-    "storage_bucket": "chicago-roboto.appspot.com"
+    "project_number": "227521769212",
+    "firebase_url": "https://devfest-bbd5b.firebaseio.com",
+    "project_id": "devfest-bbd5b",
+    "storage_bucket": "devfest-bbd5b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:757090852561:android:6716d1a08f878376",
+        "mobilesdk_app_id": "1:227521769212:android:66cdf0e3e8fe6729",
         "android_client_info": {
-          "package_name": "com.chicagoroboto"
+          "package_name": "joburg.devfest.android"
         }
       },
       "oauth_client": [
         {
-          "client_id": "757090852561-n3vamm7aahivfreu7v5pp31cu3f8pdcl.apps.googleusercontent.com",
+          "client_id": "227521769212-78f913uqs2o2vl9sc4pl1j6artamq5gi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA65wCRQum7BAgnXlfvHO6mZdfyYw2pozI"
+          "current_key": "AIzaSyBAZ3VSYfR-tDnP-5IQWr6MMnwNidIhA0U"
         }
       ],
       "services": {
@@ -29,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "757090852561-n3vamm7aahivfreu7v5pp31cu3f8pdcl.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
